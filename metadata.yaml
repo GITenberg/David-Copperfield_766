@@ -1,5 +1,8 @@
 _repo: David-Copperfield_766
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dickens, Charles
@@ -14,6 +17,8 @@ description: David Copperfield enjoys an idyllic life with his gentle, widowed m
   mother and drives her to an early grave. Despised by his stepfather, the boy is
   forced to live in misery and poverty until he runs away to throw himself upon the
   mercy of his eccentric aunt. Charles Dickens's classic tale of growing up.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/766#David-Copperfield
 edition_note: The Charles Dickens Edition
 gutenberg_bookshelf: Harvard Classics
 gutenberg_issued: '1996-12-01'
