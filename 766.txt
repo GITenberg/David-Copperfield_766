@@ -12,7 +12,7 @@ Author: Charles Dickens
 
 Release Date: December, 1996  [Etext #766]
 Posting Date: November 24, 2009
-[Last updated: March 11, 2013]
+Last updated: October 18, 2015
 
 Language: English
 
@@ -10858,7 +10858,7 @@ There was no other news in Peggotty's letters. Mr. Barkis was an
 excellent husband, she said, though still a little near; but we all had
 our faults, and she had plenty (though I am sure I don't know what they
 were); and he sent his duty, and my little bedroom was always ready for
-me. Mr. Peggotty was well, and Ham was well, and Mrs.. Gummidge was but
+me. Mr. Peggotty was well, and Ham was well, and Mrs. Gummidge was but
 poorly, and little Em'ly wouldn't send her love, but said that Peggotty
 might send it, if she liked.
 
@@ -12441,7 +12441,7 @@ were not, and couldn't be, but thought it manly to appear to expect.
 He soon came back to say that there were none (at which I was much
 surprised) and began to lay the cloth for my dinner in a box by the
 fire. While he was so engaged, he asked me what I would take with it;
-and on my replying 'Half a pint of sherry,'thought it a favourable
+and on my replying 'Half a pint of sherry,' thought it a favourable
 opportunity, I am afraid, to extract that measure of wine from the
 stale leavings at the bottoms of several small decanters. I am of this
 opinion, because, while I was reading the newspaper, I observed him
@@ -14393,7 +14393,7 @@ elevated, 'say so, and I'll go home and destroy myself!'
 
 'I did not,' said I.
 
-'Well then,' cried Miss Mowcher,' I'll consent to live. Now, ducky,
+'Well then,' cried Miss Mowcher, 'I'll consent to live. Now, ducky,
 ducky, ducky, come to Mrs. Bond and be killed.'
 
 This was an invocation to Steerforth to place himself under her hands;
@@ -14880,7 +14880,7 @@ of a regiment with us, we should hardly have wanted porters to carry it.
 In a word, we departed to the regret and admiration of all concerned,
 and left a great many people very sorry behind US.
 
-Do you stay long here, Littimer?' said I, as he stood waiting to see the
+'Do you stay long here, Littimer?' said I, as he stood waiting to see the
 coach start.
 
 'No, sir,' he replied; 'probably not very long, sir.'
@@ -15196,7 +15196,7 @@ get me a coach, my dear, and wait for me in St. Paul's Churchyard.'
 
 'With him, aunt? This man?'
 
-'I am in my senses,' she replied, 'and I tell you I must. Get mea
+'I am in my senses,' she replied, 'and I tell you I must. Get me a
 coach!'
 
 However much astonished I might be, I was sensible that I had no right
@@ -19476,7 +19476,7 @@ to be lone and lorn.'
 'No, no,' said Mr. Peggotty, soothing her sorrows.
 
 'Yes, yes, Dan'l!' said Mrs. Gummidge. 'I ain't a person to live with
-them as has had money left. Thinks go too contrary with me. I had better
+them as has had money left. Things go too contrary with me. I had better
 be a riddance.'
 
 'Why, how should I ever spend it without you?' said Mr. Peggotty, with
@@ -19494,7 +19494,7 @@ looking at Mrs. Gummidge for some moments, in sore distress of mind, he
 glanced at the Dutch clock, rose, snuffed the candle, and put it in the
 window.
 
-'Theer!'said Mr. Peggotty, cheerily.'Theer we are, Missis Gummidge!'
+'Theer!' said Mr. Peggotty, cheerily. 'Theer we are, Missis Gummidge!'
 Mrs. Gummidge slightly groaned. 'Lighted up, accordin' to custom! You're
 a wonderin' what that's fur, sir! Well, it's fur our little Em'ly. You
 see, the path ain't over light or cheerful arter dark; and when I'm
@@ -19733,7 +19733,7 @@ for so many, many year!'
 He was quite passive now; and when I heard him crying, the impulse that
 had been upon me to go down upon my knees, and ask their pardon for the
 desolation I had caused, and curse Steerforth, yielded to a better
-feeling, My overcharged heart found the same relief, and I cried too.
+feeling. My overcharged heart found the same relief, and I cried too.
 
 
 
@@ -20914,7 +20914,7 @@ believe how ill-tempered and shocking she is, Julia.'
 
 'Yes, I can, my dear!' said Julia.
 
-'YOU can, perhaps, love,' returned Dora, with her hand on julia's.
+'YOU can, perhaps, love,' returned Dora, with her hand on Julia's.
 'Forgive my not excepting you, my dear, at first.'
 
 I learnt, from this, that Miss Mills had had her trials in the course
@@ -21161,7 +21161,7 @@ Miss Kitt.'
 Kitt, I should observe, was the name of the creature in pink, with the
 little eyes.
 
-'Though certainly I don't know why you should,' said Dora, or why you
+'Though certainly I don't know why you should,' said Dora, 'or why you
 should call it a happiness at all. But of course you don't mean what you
 say. And I am sure no one doubts your being at liberty to do whatever
 you like. Jip, you naughty boy, come here!'
@@ -22003,8 +22003,8 @@ My hopes were dashed in a moment, but I made another effort.
 
 Mr. Spenlow shook his head discouragingly. 'Heaven forbid, Copperfield,'
 he replied, 'that I should do any man an injustice: still less, Mr.
-jorkins. But I know my partner, Copperfield. Mr. Jorkins is not a man
-to respond to a proposition of this peculiar nature. Mr. jorkins is very
+Jorkins. But I know my partner, Copperfield. Mr. Jorkins is not a man
+to respond to a proposition of this peculiar nature. Mr. Jorkins is very
 difficult to move from the beaten track. You know what he is!'
 
 I am sure I knew nothing about him, except that he had originally been
@@ -22019,44 +22019,44 @@ reported to be twenty years of age.
 'Would you object to my mentioning it to him, sir?' I asked.
 
 'By no means,' said Mr. Spenlow. 'But I have some experience of Mr.
-jorkins, Copperfield. I wish it were otherwise, for I should be happy
+Jorkins, Copperfield. I wish it were otherwise, for I should be happy
 to meet your views in any respect. I cannot have the objection to your
-mentioning it to Mr. jorkins, Copperfield, if you think it worth while.'
+mentioning it to Mr. Jorkins, Copperfield, if you think it worth while.'
 
 Availing myself of this permission, which was given with a warm shake
 of the hand, I sat thinking about Dora, and looking at the sunlight
 stealing from the chimney-pots down the wall of the opposite house,
-until Mr. jorkins came. I then went up to Mr. jorkins's room, and
-evidently astonished Mr. jorkins very much by making my appearance
+until Mr. Jorkins came. I then went up to Mr. Jorkins's room, and
+evidently astonished Mr. Jorkins very much by making my appearance
 there.
 
-'Come in, Mr. Copperfield,' said Mr. jorkins. 'Come in!'
+'Come in, Mr. Copperfield,' said Mr. Jorkins. 'Come in!'
 
-I went in, and sat down; and stated my case to Mr. jorkins pretty much
+I went in, and sat down; and stated my case to Mr. Jorkins pretty much
 as I had stated it to Mr. Spenlow. Mr. Jorkins was not by any means the
 awful creature one might have expected, but a large, mild, smooth-faced
 man of sixty, who took so much snuff that there was a tradition in the
 Commons that he lived principally on that stimulant, having little room
 in his system for any other article of diet.
 
-'You have mentioned this to Mr. Spenlow, I suppose?' said Mr. jorkins;
+'You have mentioned this to Mr. Spenlow, I suppose?' said Mr. Jorkins;
 when he had heard me, very restlessly, to an end.
 
 I answered Yes, and told him that Mr. Spenlow had introduced his name.
 
-'He said I should object?' asked Mr. jorkins.
+'He said I should object?' asked Mr. Jorkins.
 
 I was obliged to admit that Mr. Spenlow had considered it probable.
 
 'I am sorry to say, Mr. Copperfield, I can't advance your object,' said
-Mr. jorkins, nervously. 'The fact is--but I have an appointment at the
+Mr. Jorkins, nervously. 'The fact is--but I have an appointment at the
 Bank, if you'll have the goodness to excuse me.'
 
 With that he rose in a great hurry, and was going out of the room, when
 I made bold to say that I feared, then, there was no way of arranging
 the matter?
 
-'No!' said Mr. jorkins, stopping at the door to shake his head. 'Oh, no!
+'No!' said Mr. Jorkins, stopping at the door to shake his head. 'Oh, no!
 I object, you know,' which he said very rapidly, and went out. 'You must
 be aware, Mr. Copperfield,' he added, looking restlessly in at the door
 again, 'if Mr. Spenlow objects--'
@@ -22073,16 +22073,16 @@ again.
 Being very anxious to leave no stone unturned, I waited until Mr.
 Spenlow came in, and then described what had passed; giving him to
 understand that I was not hopeless of his being able to soften the
-adamantine jorkins, if he would undertake the task.
+adamantine Jorkins, if he would undertake the task.
 
 'Copperfield,' returned Mr. Spenlow, with a gracious smile, 'you have
-not known my partner, Mr. jorkins, as long as I have. Nothing is
+not known my partner, Mr. Jorkins, as long as I have. Nothing is
 farther from my thoughts than to attribute any degree of artifice to Mr.
-jorkins. But Mr. jorkins has a way of stating his objections which often
-deceives people. No, Copperfield!' shaking his head. 'Mr. jorkins is not
+Jorkins. But Mr. Jorkins has a way of stating his objections which often
+deceives people. No, Copperfield!' shaking his head. 'Mr. Jorkins is not
 to be moved, believe me!'
 
-I was completely bewildered between Mr. Spenlow and Mr. jorkins, as
+I was completely bewildered between Mr. Spenlow and Mr. Jorkins, as
 to which of them really was the objecting partner; but I saw with
 sufficient clearness that there was obduracy somewhere in the firm, and
 that the recovery of my aunt's thousand pounds was out of the
@@ -24181,12 +24181,12 @@ asked her should she send her love to me, had only cried, as she was
 always crying, 'Oh, dear papa! oh, poor papa!' But she had not said No,
 and that I made the most of.
 
-Mr. jorkins, who had been at Norwood since the occurrence, came to the
+Mr. Jorkins, who had been at Norwood since the occurrence, came to the
 office a few days afterwards. He and Tiffey were closeted together for
 some few moments, and then Tiffey looked out at the door and beckoned me
 in.
 
-'Oh!' said Mr. jorkins. 'Mr. Tiffey and myself, Mr. Copperfield, are
+'Oh!' said Mr. Jorkins. 'Mr. Tiffey and myself, Mr. Copperfield, are
 about to examine the desks, the drawers, and other such repositories
 of the deceased, with the view of sealing up his private papers, and
 searching for a Will. There is no trace of any, elsewhere. It may be as
@@ -24195,14 +24195,14 @@ well for you to assist us, if you please.'
 I had been in agony to obtain some knowledge of the circumstances
 in which my Dora would be placed--as, in whose guardianship, and so
 forth--and this was something towards it. We began the search at once;
-Mr. jorkins unlocking the drawers and desks, and we all taking out the
+Mr. Jorkins unlocking the drawers and desks, and we all taking out the
 papers. The office-papers we placed on one side, and the private papers
 (which were not numerous) on the other. We were very grave; and when we
 came to a stray seal, or pencil-case, or ring, or any little article of
 that kind which we associated personally with him, we spoke very low.
 
 We had sealed up several packets; and were still going on dustily and
-quietly, when Mr. jorkins said to us, applying exactly the same words to
+quietly, when Mr. Jorkins said to us, applying exactly the same words to
 his late partner as his late partner had applied to him:
 
 'Mr. Spenlow was very difficult to move from the beaten track. You know
@@ -24214,11 +24214,11 @@ They both stopped and looked at me. 'On the very day when I last saw
 him,' said I, 'he told me that he had, and that his affairs were long
 since settled.'
 
-Mr. jorkins and old Tiffey shook their heads with one accord.
+Mr. Jorkins and old Tiffey shook their heads with one accord.
 
 'That looks unpromising,' said Tiffey.
 
-'Very unpromising,' said Mr. jorkins.
+'Very unpromising,' said Mr. Jorkins.
 
 'Surely you don't doubt--' I began.
 
@@ -24359,11 +24359,11 @@ As to the Commons, I had no great occasion to be particular about my
 duties in that quarter. To say the truth, we were getting in no very
 good odour among the tip-top proctors, and were rapidly sliding down
 to but a doubtful position. The business had been indifferent under Mr.
-jorkins, before Mr. Spenlow's time; and although it had been quickened
+Jorkins, before Mr. Spenlow's time; and although it had been quickened
 by the infusion of new blood, and by the display which Mr. Spenlow made,
 still it was not established on a sufficiently strong basis to bear,
 without being shaken, such a blow as the sudden loss of its active
-manager. It fell off very much. Mr. jorkins, notwithstanding his
+manager. It fell off very much. Mr. Jorkins, notwithstanding his
 reputation in the firm, was an easy-going, incapable sort of man, whose
 reputation out of doors was not calculated to back it up. I was turned
 over to him now, and when I saw him take his snuff and let the business
@@ -24880,7 +24880,7 @@ eyes without the ghost of an eyelash, I never saw.
 
 'For the sake of Agnes Wickfield--Heaven bless her!'
 
-'Thank you for that blessing, Master Copperfield!'he interposed.
+'Thank you for that blessing, Master Copperfield!' he interposed.
 
 'I will tell you what I should, under any other circumstances, as soon
 have thought of telling to--Jack Ketch.'
@@ -25068,7 +25068,7 @@ defeated air of compromise. 'Don't be foolish, Mr. Wickfield. If I
 have gone a little beyond what you were prepared for, I can go back, I
 suppose? There's no harm done.'
 
-'I looked for single motives in everyone,' said Mr. Wickfield, and I was
+'I looked for single motives in everyone,' said Mr. Wickfield, 'and I was
 satisfied I had bound him to me by motives of interest. But see what he
 is--oh, see what he is!'
 
@@ -25446,7 +25446,7 @@ He folded up the note again, with great patience and care, in exactly
 the same form, and laid it on one side.
 
 'This come to Missis Gummidge,' he said, opening another, 'two or three
-months ago.'After looking at it for some moments, he gave it to me, and
+months ago.' After looking at it for some moments, he gave it to me, and
 added in a low voice, 'Be so good as read it, sir.'
 
 I read as follows:
@@ -28804,7 +28804,7 @@ wisdom. If all this made me shrink within myself (as indeed it did),
 when I had that to tell, it was still because I honoured you so much,
 and hoped that you might one day honour me.'
 
-'That day has shone this long time, Annie,' said the Doctor, and can
+'That day has shone this long time, Annie,' said the Doctor, 'and can
 have but one long night, my dear.'
 
 'Another word! I afterwards meant--steadfastly meant, and purposed to
@@ -31528,7 +31528,7 @@ and heerafter!'
 
 'Amen!' said my aunt.
 
-'She had been summat timorous and down,' said Mr. Peggotty, and had sat,
+'She had been summat timorous and down,' said Mr. Peggotty, 'and had sat,
 at first, a little way off, at her spinning, or such work as it was,
 when Em'ly talked to the children. But Em'ly had took notice of her,
 and had gone and spoke to her; and as the young woman was partial to
@@ -32272,7 +32272,7 @@ We all became very anxious and impatient, when we sat down to breakfast.
 As it approached nearer and nearer to half past nine o'clock, our
 restless expectation of Mr. Micawber increased. At last we made no more
 pretence of attending to the meal, which, except with Mr. Dick, had been
-a mere form from the first; but my aunt walked up and down the room,
+a mere form from the first; but my aunt walked up and down the room.
 Traddles sat upon the sofa affecting to read the paper with his eyes on
 the ceiling; and I looked out of the window to give early notice of Mr.
 Micawber's coming. Nor had I long to watch, for, at the first chime of
@@ -36243,7 +36243,7 @@ Mr. Chillip shook his head, stirred his negus, and sipped it.
 
 'The present Mrs. Murdstone?'
 
-A charming woman indeed, sir,' said Mr. Chillip; 'as amiable, I am sure,
+'A charming woman indeed, sir,' said Mr. Chillip; 'as amiable, I am sure,
 as it was possible to be! Mrs. Chillip's opinion is, that her spirit
 has been entirely broken since her marriage, and that she is all but
 melancholy mad. And the ladies,' observed Mr. Chillip, timorously, 'are
